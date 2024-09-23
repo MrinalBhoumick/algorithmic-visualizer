@@ -1,0 +1,4 @@
+matplotlib
+psutil 
+boto3
+streamlit
